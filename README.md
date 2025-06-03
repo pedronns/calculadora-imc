@@ -22,10 +22,10 @@ Clone o repositório e execute localmente:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/pedronns/calculadora-imc
 
 # Acesse a pasta do projeto
-cd nome-do-projeto
+cd calculadora-imc
 
 # Instale as dependências
 npm install
